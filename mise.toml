@@ -1,0 +1,8 @@
+[tools]
+python = "3.12.8"
+
+[settings]
+# The 3.12.8 standalone build predates GitHub artifact attestations, which
+# mise verifies by default and then fails the Railway build. Disable the
+# check so the precompiled binary installs.
+python.github_attestations = false

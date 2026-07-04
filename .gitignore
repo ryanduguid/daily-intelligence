@@ -1,0 +1,10 @@
+# Your private profile/interests — never commit this
+config.py
+
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.db
+.DS_Store
+.venv/
