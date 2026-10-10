@@ -25,8 +25,8 @@ Every morning you get an email like:
 > landlord clients use spreadsheets, check their bridging tool is still listed
 > before the next quarterly update.*
 
-Built by [OpenAccountants](https://www.openaccountants.com) — the open-source
-network of accountant-verified tax rules for AI.
+Built by [OpenAccountants](https://www.openaccountants.com), a library of tax
+Guides with sources and published review status for AI.
 
 ## How it works
 
