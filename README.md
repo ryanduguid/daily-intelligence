@@ -26,7 +26,7 @@ Every morning you get an email like:
 > before the next quarterly update.*
 
 Built by [OpenAccountants](https://www.openaccountants.com), a library of tax
-Guides with sources and published review status for AI.
+skills with sources and published review status for AI.
 
 ## How it works
 
